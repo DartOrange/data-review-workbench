@@ -1,0 +1,2 @@
+customer_id,name,email,country,amount,notes
+C-FAIL,"Unclosed quote,alex@example.com,US,10,Broken

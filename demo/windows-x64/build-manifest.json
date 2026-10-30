@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "platform": "windows-x64",
+  "runtime": "v26.13.0",
+  "sha256": "7d9d14fd60793a1aaecbd46ee10a76b35cb9aa4e64cc4ae82f5b56ea3b180506",
+  "bytes": 103117640,
+  "sourceFiles": [
+    "server",
+    "shared",
+    "src",
+    "public"
+  ],
+  "command": "npm run build:demo",
+  "signed": false
+}

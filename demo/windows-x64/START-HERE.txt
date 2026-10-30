@@ -1,0 +1,11 @@
+Data Review Workbench
+
+Double-click DataReviewWorkbench-1.0.0.exe. Your browser opens http://127.0.0.1:3001.
+No Node.js or npm installation is required. Keep the console window open.
+Press Ctrl+C or close the console window to stop the local server.
+
+Saved data: %LOCALAPPDATA%\DataReviewWorkbench\workbench.sqlite
+Use Try sample data, fix the two highlighted fields, then export the corrected CSV.
+
+Windows x64 only. This executable is unsigned.
+See LICENSE.txt, NODE-LICENSE.txt, and DEPENDENCY-NOTICES.txt.

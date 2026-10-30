@@ -1,0 +1,13 @@
+customer_id,name,email,country,amount,notes
+C-1001,Alex Morgan,alex.morgan@example.com,US,1250.00,Quarterly reconciliation
+C-1002,Jamie Reed,jamie.reed.example.com,GB,340.50,Email needs review
+C-1003,Sam Rivera,sam.rivera@example.com,DE,89.90,Welcome credit
+C-1004,Taylor Chen,taylor.chen@example.com,UA,-25,Amount needs review
+C-1005,Jordan Bell,jordan.bell@example.com,CA,720.00,"Includes shipping, tax"
+C-1006,Robin Lee,robin.lee@example.com,FR,160.00,=SUM(1+1)
+C-1007,Casey Park,casey.park@example.com,PL,990.00,Synthetic record
+C-1008,Drew Lane,drew.lane@example.com,NL,42.00,No follow-up required
+C-1009,Avery Cole,avery.cole@example.com,US,2600.00,Annual allocation
+C-1010,Morgan Blake,morgan.blake@example.com,GB,315.25,Synthetic record
+C-1011,Riley Quinn,riley.quinn@example.com,DE,84.00,Monthly adjustment
+C-1012,Parker Ellis,parker.ellis@example.com,UA,430.00,Ready for review
